@@ -1,0 +1,53 @@
+@media only screen and (max-width: 800px) {
+  .scan {
+    display: flex;
+    align-items: center;
+    grid-gap: 1rem;
+    gap: 1rem;
+    padding-block: 1rem;
+    flex: 1 1 100%;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  .about-item.about-info {
+    padding: 0;
+  }
+  .about-card-wrapper {
+    margin-top: 0;
+  }
+  .about-home-wrapper {
+    display: flex;
+    position: relative;
+    flex-wrap: wrap;
+  }
+  .footer-flex {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .side-bar-TY {
+    display: none;
+  }
+  .header-wrapper.container {
+    flex-direction: column;
+    padding: 0.6rem;
+    padding-top: 1rem;
+    align-items: center;
+  }
+  ul.header-nav-list-wrapper.component-nav-list-wrapper {
+    flex-wrap: wrap;
+  }
+  .about-card {
+    min-width: 280px;
+  }
+  .header-wrapper.container > * {
+    padding: 0;
+  }
+  .about-info-item {
+    padding: 1rem;
+  }
+  .hero-wrapper {
+    min-height: 100vh;
+  }
+}
