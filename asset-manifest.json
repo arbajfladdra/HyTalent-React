@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/HyTalent-React/static/css/main.47ef0352.chunk.css",
+    "main.js": "/HyTalent-React/static/js/main.9aad47ff.chunk.js",
+    "main.js.map": "/HyTalent-React/static/js/main.9aad47ff.chunk.js.map",
+    "runtime-main.js": "/HyTalent-React/static/js/runtime-main.9cb28ee0.js",
+    "runtime-main.js.map": "/HyTalent-React/static/js/runtime-main.9cb28ee0.js.map",
+    "static/js/2.415a81f4.chunk.js": "/HyTalent-React/static/js/2.415a81f4.chunk.js",
+    "static/js/2.415a81f4.chunk.js.map": "/HyTalent-React/static/js/2.415a81f4.chunk.js.map",
+    "static/js/3.fee7dd39.chunk.js": "/HyTalent-React/static/js/3.fee7dd39.chunk.js",
+    "static/js/3.fee7dd39.chunk.js.map": "/HyTalent-React/static/js/3.fee7dd39.chunk.js.map",
+    "index.html": "/HyTalent-React/index.html",
+    "static/css/main.47ef0352.chunk.css.map": "/HyTalent-React/static/css/main.47ef0352.chunk.css.map",
+    "static/js/2.415a81f4.chunk.js.LICENSE.txt": "/HyTalent-React/static/js/2.415a81f4.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/HyTalent-React/static/media/banner-image.e89c096b.png",
+    "static/media/hero.52f99b77.png": "/HyTalent-React/static/media/hero.52f99b77.png",
+    "static/media/hy-talent-logo_white.17db9ee0.png": "/HyTalent-React/static/media/hy-talent-logo_white.17db9ee0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9cb28ee0.js",
+    "static/js/2.415a81f4.chunk.js",
+    "static/css/main.47ef0352.chunk.css",
+    "static/js/main.9aad47ff.chunk.js"
+  ]
+}
